@@ -22,6 +22,10 @@ navbar {
     padding-top: 0px;
 }
 
+#tv-shows {
+    margin-bottom: 30px;
+}
+
 /* LINKS */
 
 .link {
@@ -43,6 +47,7 @@ navbar {
 
 .logos a {
     padding: 10px;
+    color: var(--dark);
 }
 
 footer {
@@ -50,4 +55,10 @@ footer {
     text-align: center;
     color: var(--dark);
     margin: 10px;
+}
+
+/* Genres Button */
+
+div button {
+    height: fit-content;
 }
